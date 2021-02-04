@@ -1,0 +1,1 @@
+A basic message generator which gives an output of a quote by a famous figure and a number from 1 - 9.
