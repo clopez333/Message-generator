@@ -5,8 +5,8 @@ let randomize = () => {
     'Be humble in victory or defeat- Conor McGregor', 'I like criticism. It makes me stronger- LeBron James',]
     // an array of numbers which will be given as the output
     let numbers = [1,2,3,4,5,6,7,8,9]
-    let randomMesage = message[Math.floor(Math.random(message.length))]
-    let randomNum = num[Math.floor(Math.random(numbers.length))]
+    let randomMesage = messages[Math.floor(Math.random(message.length))]
+    let randomNum = numbers[Math.floor(Math.random(numbers.length))]
 
     const output = "Your motivational speech is "  + randomMessage + " and your number is " + randomNum;
 
