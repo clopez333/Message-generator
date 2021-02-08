@@ -13,3 +13,4 @@ let randomize = () => {
     return output
 
 }
+console.log(randomize())
